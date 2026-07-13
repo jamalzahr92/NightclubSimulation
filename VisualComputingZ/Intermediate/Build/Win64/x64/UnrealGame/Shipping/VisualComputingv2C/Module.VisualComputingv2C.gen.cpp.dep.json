@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ueprojects\\visualcomputingz\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\visualcomputingv2c\\module.visualcomputingv2c.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ueprojects\\visualcomputingz\\intermediate\\build\\win64\\x64\\visualcomputingv2c\\shipping\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "e:\\ueprojects\\visualcomputingz\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\visualcomputingv2c\\definitions.visualcomputingv2c.h",
+            "e:\\ueprojects\\visualcomputingz\\intermediate\\build\\win64\\unrealgame\\inc\\visualcomputingv2c\\uht\\audioanalyzercpp.gen.cpp",
+            "e:\\ueprojects\\visualcomputingz\\source\\visualcomputingv2c\\audioanalyzercpp.h",
+            "e:\\ueprojects\\visualcomputingz\\intermediate\\build\\win64\\unrealgame\\inc\\visualcomputingv2c\\uht\\audioanalyzercpp.generated.h",
+            "e:\\ueprojects\\visualcomputingz\\intermediate\\build\\win64\\unrealgame\\inc\\visualcomputingv2c\\uht\\visualcomputingv2c.init.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

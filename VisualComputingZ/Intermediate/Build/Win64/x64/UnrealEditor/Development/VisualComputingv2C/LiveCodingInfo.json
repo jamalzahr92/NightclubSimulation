@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VisualComputingv2C.gen.cpp.obj": [
+			"AudioAnalyzerCPP.gen.cpp.obj",
+			"VisualComputingv2C.init.gen.cpp.obj"
+		]
+	}
+}

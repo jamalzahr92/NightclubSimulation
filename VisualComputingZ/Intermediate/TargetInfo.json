@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VisualComputingv2C",
+			"Path": "..\\Source\\VisualComputingv2C.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VisualComputingv2CEditor",
+			"Path": "..\\Source\\VisualComputingv2CEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

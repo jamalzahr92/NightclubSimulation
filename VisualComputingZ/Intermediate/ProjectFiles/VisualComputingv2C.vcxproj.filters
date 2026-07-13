@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\VisualComputingv2C.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\VisualComputingv2C.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\VisualComputingv2CEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Tags">
+      <UniqueIdentifier>{C23A97B6-B409-38D2-A57B-078A593D2FB3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Tags\VPRoles.ini">
+      <Filter>Config\Tags</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{5AE2AEFB-02F3-3CFB-A403-46456DE91BCC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Source\VisualComputingv2C">
+      <UniqueIdentifier>{9ABD1225-EFE0-30B3-9896-3D1DF745D575}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\VisualComputingv2C\AudioAnalyzerCPP.cpp">
+      <Filter>Source\VisualComputingv2C</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VisualComputingv2C\AudioAnalyzerCPP.h">
+      <Filter>Source\VisualComputingv2C</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\VisualComputingv2C\VisualComputingv2C.Build.cs">
+      <Filter>Source\VisualComputingv2C</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\VisualComputingv2C\VisualComputingv2C.cpp">
+      <Filter>Source\VisualComputingv2C</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VisualComputingv2C\VisualComputingv2C.h">
+      <Filter>Source\VisualComputingv2C</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

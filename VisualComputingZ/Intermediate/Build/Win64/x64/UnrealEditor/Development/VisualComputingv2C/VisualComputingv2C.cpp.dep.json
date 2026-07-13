@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ueprojects\\visualcomputingv2c\\source\\visualcomputingv2c\\visualcomputingv2c.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ueprojects\\visualcomputingv2c\\intermediate\\build\\win64\\x64\\visualcomputingv2ceditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "e:\\ueprojects\\visualcomputingv2c\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\visualcomputingv2c\\definitions.visualcomputingv2c.h",
+            "e:\\ueprojects\\visualcomputingv2c\\source\\visualcomputingv2c\\visualcomputingv2c.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

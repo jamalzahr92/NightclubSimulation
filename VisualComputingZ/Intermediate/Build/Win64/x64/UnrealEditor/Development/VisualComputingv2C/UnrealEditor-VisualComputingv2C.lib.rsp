@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VisualComputingv2C.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:/UEProjects/VisualComputingv2C/Intermediate/Build/Win64/x64/VisualComputingv2CEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"E:/UEProjects/VisualComputingv2C/Intermediate/Build/Win64/x64/UnrealEditor/Development/VisualComputingv2C/Module.VisualComputingv2C.gen.cpp.obj"
+"E:/UEProjects/VisualComputingv2C/Intermediate/Build/Win64/x64/UnrealEditor/Development/VisualComputingv2C/AudioAnalyzerCPP.cpp.obj"
+"E:/UEProjects/VisualComputingv2C/Intermediate/Build/Win64/x64/UnrealEditor/Development/VisualComputingv2C/VisualComputingv2C.cpp.obj"
+"E:/UEProjects/VisualComputingv2C/Intermediate/Build/Win64/x64/UnrealEditor/Development/VisualComputingv2C/PerModuleInline.gen.cpp.obj"
+"E:/UEProjects/VisualComputingv2C/Intermediate/Build/Win64/x64/UnrealEditor/Development/VisualComputingv2C/Default.rc2.res"
+/OUT:"E:/UEProjects/VisualComputingv2C/Intermediate/Build/Win64/x64/UnrealEditor/Development/VisualComputingv2C/UnrealEditor-VisualComputingv2C.lib"
